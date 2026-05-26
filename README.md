@@ -1,5 +1,14 @@
 # SariPay B2B
 
+## CONTRACT ID:
+CB2IEJKYB3ZYWD762QZ6E25W7KSBWO52KK2E3IG7JJTPVGRJ2YPCYVOR
+
+## CONTRACT LINK:
+https://stellar.expert/explorer/testnet/contract/CB2IEJKYB3ZYWD762QZ6E25W7KSBWO52KK2E3IG7JJTPVGRJ2YPCYVOR
+
+![PICTURE](Stellar.png)
+
+
 SariPay B2B is a decentralized, secure supply chain micro-escrow smart payment dApp optimized for small shop owners and informal neighborhood merchants in Southeast Asia.
 
 ## Problem & Solution
